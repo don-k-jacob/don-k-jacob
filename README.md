@@ -17,6 +17,8 @@ Here are some ideas to get you started:
   - **Twitter**     [twitter.com/don_k_jacob](https://twitter.com/don_k_jacob)
   
   ---
+  [![](https://img.shields.io/badge/Personal-Blog-Blue?style=for-the-badge&logo=HTML)](https://www.donkjacob.me/)
+  [![](https://img.shields.io/badge/.-Instagram-Blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/don_k_jacob/)
   [![GitHub Follow](https://img.shields.io/github/followers/don-k-jacob?logo=github&style=for-the-badge)](https://github.com/don-k-jacob). 
   [![Twitter Follow](https://img.shields.io/twitter/follow/don_k_jacob?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/don_k_jacob). 
   
