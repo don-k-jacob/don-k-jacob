@@ -17,7 +17,8 @@ Here are some ideas to get you started:
   - **Twitter**     [twitter.com/don_k_jacob](https://twitter.com/don_k_jacob)
   
   ---
-  [![Twitter Follow](https://img.shields.io/github/followers/don-k-jacob?logo=github&style=for-the-badge)](https://twitter.com/don_k_jacob). 
+  [![GitHub Follow](https://img.shields.io/github/followers/don-k-jacob?logo=github&style=for-the-badge)](https://github.com/don-k-jacob). 
+  [![Twitter Follow](https://img.shields.io/twitter/follow/don_k_jacob?color=blue&logo=twitter&style=for-the-badge)](https://github.com/don-k-jacob). 
   
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
