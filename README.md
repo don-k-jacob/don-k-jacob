@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   [![](https://img.shields.io/badge/.-Instagram-Blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/don_k_jacob/)
   [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/don-k-jacob/)
   [![Twitter Follow](https://img.shields.io/twitter/follow/don_k_jacob?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/don_k_jacob). 
+  ---
+  [![](https://github-readme-stats.vercel.app/api?username=don-k-jacob&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://www.donkjacob.me/)
   
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
