@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   
   - **Twitter**     [twitter.com/don_k_jacob](https://twitter.com/don_k_jacob)
   ---
-  [![GitHub Game of Life](https://github4life.herokuapp.com/don-k-jacob.gif?z=6)](https://github4life.herokuapp.com/don-k-jacob)
+  [![GitHub Game of Life](https://github4life.herokuapp.com/don-k-jacob.gif?z=6)](https://github.com/don-k-jacob)
   ---
   [![](https://img.shields.io/badge/Personal-Blog-Blue?style=for-the-badge&logo=HTML)](https://www.donkjacob.me/)
   [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/don-k-jacob/)
