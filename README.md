@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/don.k.1004"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30px" alt="Facebook"></a> &nbsp; &nbsp;
   <a href="https://wa.me/message/KJMFGLVVOTAFM1"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
   <a href="donkjacob.business@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="GMail"></a> &nbsp; &nbsp;
-</p>
-<!--- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
+  </p>
+  
+  ---
