@@ -32,11 +32,10 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=don-k-jacob&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/don-k-jacob)
   ---
   <p align="center">
-  
-  <a href="https://www.linkedin.com/in/don-k-jacob/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+   <a href="https://www.linkedin.com/in/don-k-jacob/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://dev.to/donkjacob">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Don Kora Jacob's DEV Profile"  width="30">
-</a>&nbsp; &nbsp;
+  </a>&nbsp; &nbsp;
   <a href="https://www.instagram.com/don_k_jacob/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/don_k_jacob"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="https://t.me/don_k_jacob"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
@@ -45,8 +44,7 @@ Here are some ideas to get you started:
   <a href="donkjacob.business@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="GMail"></a> &nbsp; &nbsp;
  <a href="https://dev.to/donkjacob">
   <i class="fab fa-dev" title="donkjacob's DEV Profile"></i>
-</a>
-  
- </p>
-  
-  ---
+ </a>
+</p>
+
+ ---
