@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   [![](https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/don-k-jacob/)
   [![](https://img.shields.io/badge/@don_k_jacob-Instagram-Blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/don_k_jacob/)
   [![Twitter Follow](https://img.shields.io/twitter/follow/don_k_jacob?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/don_k_jacob). 
-  [![Don Kora Jacob's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/donkjacob)
   ---
   🏆 Github Status
   ---
