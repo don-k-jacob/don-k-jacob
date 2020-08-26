@@ -1,6 +1,5 @@
 # Hi there 👋
 ## :octocat: I'm Don Kora Jacob
-![](https://komarev.com/ghpvc/?username=don-k-jacob&color=010040&style=flat-square)
 <!--
 **don-k-jacob/don-k-jacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -48,3 +47,4 @@ Here are some ideas to get you started:
 </p>
 
  ---
+![](https://komarev.com/ghpvc/?username=don-k-jacob&color=010040&style=flat-square)
