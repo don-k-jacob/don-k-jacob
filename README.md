@@ -49,3 +49,4 @@ Here are some ideas to get you started:
  ---
 ![](https://komarev.com/ghpvc/?username=don-k-jacob&color=010040&style=flat-square)
 [![Repos Badge](https://badges.pufler.dev/repos/don-k-jacob)](https://www.donkjacob.me)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
