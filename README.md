@@ -52,3 +52,4 @@ Here are some ideas to get you started:
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/puf17640)](https://www.donkjacob.me)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://www.donkjacob.me)
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/puf17640)](https://www.donkjacob.me)
+[![Commits Badge](https://badges.pufler.dev/commits/daily/puf17640)](https://www.donkjacob.me)
