@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 ## :octocat: I'm Don Kora Jacob
 <!--
 **don-k-jacob/don-k-jacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
