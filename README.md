@@ -29,7 +29,10 @@ Here are some ideas to get you started:
   ---
   [![](https://github-readme-stats.vercel.app/api?username=don-k-jacob&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://www.donkjacob.me/)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=don-k-jacob&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/don-k-jacob)
-  ---
+ <p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=don-k-jacob" alt="don-k-jacob" /></a> </p>
+
+ ---
   <p align="center">
    <a href="https://www.linkedin.com/in/don-k-jacob/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://dev.to/donkjacob">
