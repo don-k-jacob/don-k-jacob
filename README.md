@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   - **LinkedIn**    [www.linkedin.com/in/don-k-jacob/](https://www.linkedin.com/in/don-k-jacob/)
   - **Instagram**   [http://www.instagram.com/don_k_jacob/](https://www.instagram.com/don_k_jacob/)
   - **Twitter**     [twitter.com/don_k_jacob](https://twitter.com/don_k_jacob)
-  - **Discode**     **__don_k_jacob#4143__**
+  - **Discord**     **__don_k_jacob#4143__**
   ---
   [![GitHub Game of Life](https://github4life.herokuapp.com/don-k-jacob.gif?z=6)](https://github.com/don-k-jacob)
   ---
