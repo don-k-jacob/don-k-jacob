@@ -24,6 +24,11 @@ Here are some ideas to get you started:
   [![](https://img.shields.io/badge/@don_k_jacob-Instagram-Blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/don_k_jacob/)
   [![Twitter Follow](https://img.shields.io/twitter/follow/don_k_jacob?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/don_k_jacob). 
   ---
+##  Streaks 🔥
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=don-k-jacob&theme=bear&hide_border=true&fire=DD2727&stroke=DD2727&ring=A41FAE&sideNums=B3DADD&currStreakLabel=DD7A18&sideLabels=57DD3B&dates=A41FAE)
+
+  ---
   🏆 Github Status
   ---
   [![](https://github-readme-stats.vercel.app/api?username=don-k-jacob&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://www.donkjacob.me/)
